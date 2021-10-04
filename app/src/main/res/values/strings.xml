@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">FoodWise</string>
+    <string name="menuItem_Scanner">Scanner</string>
+    <string name="menuItem_List">List</string>
+    <string name="menuItem_Account">Account</string>
 </resources>
