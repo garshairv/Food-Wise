@@ -14,7 +14,6 @@ public class WelcomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_welcome);
     }
 
-
     public void loginPage(View view) {
         Intent intent = new Intent(this, LogInActivity.class);
         startActivity(intent);

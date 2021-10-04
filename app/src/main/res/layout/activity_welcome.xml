@@ -6,7 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".WelcomeActivity">
 
-    <Button
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background"/>
+
+<Button
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
