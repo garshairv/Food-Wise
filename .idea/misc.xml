@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Food-Wise/app/src/main/res/drawable/ic_barcode_icon_icons_com_73665.xml" value="0.2703125" />
+        <entry key="..\:/Android Projects/Food-Wise/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2703125" />
+        <entry key="..\:/Android Projects/Food-Wise/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Android Projects/Food-Wise/app/src/main/res/layout/activity_welcome.xml" value="0.7471698113207547" />
+        <entry key="..\:/Android Projects/Food-Wise/app/src/main/res/menu/bottom_navigation.xml" value="0.6502463054187192" />
         <entry key="app/src/main/res/layout/activity_log_in.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.19537037037037036" />
